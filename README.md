@@ -3,7 +3,7 @@
 ## 👥 Danh sách thành viên & Phân công
 ### 1. Hưng (Nhóm trưởng)
 - [x] Giai đoạn 1: Khám phá và tiền xử lý dữ liệu
-- [ ] Tổng hợp code và quản lý GitHub
+- [x] Tổng hợp code và quản lý GitHub
 
 ### 2. Minh
 - [x] Giai đoạn 2: Xây dựng mô hình
@@ -11,8 +11,8 @@
 - [ ] Thiết kế slide thuyết trình (PPT)
 
 ### 3. Nam
-- [ ] Giai đoạn 4: Tối ưu hóa mô hình
-- [ ] Giai đoạn 5: Trực quan hóa kết quả
+- [x] Giai đoạn 4: Tối ưu hóa mô hình
+- [x] Giai đoạn 5: Trực quan hóa kết quả
 - [ ] Soạn thảo báo cáo (Word)
 
 ## 🛠 Công cụ sử dụng
